@@ -1,5 +1,4 @@
 from django.utils.translation import gettext_lazy
-from weblate.addons.events import EVENT_PRE_COMMIT
 from weblate.addons.scripts import BaseScriptAddon
 
 
