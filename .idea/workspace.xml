@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6b26124-17ad-4bad-9b5a-d6e49e8d2297" name="Changes" comment="feat: Format checker">
-      <change afterPath="$PROJECT_DIR$/weblate_sc_checker/addon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a6b26124-17ad-4bad-9b5a-d6e49e8d2297" name="Changes" comment="chore: change filename">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714907760646</updated>
-      <workItem from="1714907762841" duration="3940000" />
+      <workItem from="1714907762841" duration="4954000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Format checker">
       <option name="closed" value="true" />
@@ -90,7 +87,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714910195130</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chore: change filename">
+      <option name="closed" value="true" />
+      <created>1714917592027</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714917592027</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore: change filename">
+      <option name="closed" value="true" />
+      <created>1714917596420</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714917596420</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: Format checker" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Format checker" />
+    <MESSAGE value="chore: change filename" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: change filename" />
   </component>
 </project>
