@@ -7,6 +7,7 @@ setup(
     author_email="mgm@galaxyhub.kr",
     description="Star Citizen format checker",
     license="GPLv3+",
-    keywords="star citizen",
+    keywords="Star Citizen",
     packages=["weblate_sc_checker"],
+    include_package_data=True,
 )
